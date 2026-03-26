@@ -20,6 +20,17 @@ Throughout this project, I:
 4.Analyzed employee distribution and attrition trends.
 
 
+**TOOLS AND TECHNOLOGIES-**
+
+-Microsoft Power BI
+
+-Microsoft Excel
+
+-Power Query
+
+-DAX (Data Analysis Expressions)
+
+
 **STEPS FOLLOWED-**
 
 1️⃣ **Data Gathering**
