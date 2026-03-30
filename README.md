@@ -42,7 +42,7 @@ Throughout this project, I:
 
 -Loaded the dataset into Power Query Editor
 
-2️⃣** Data Cleaning**
+2️⃣ **Data Cleaning**
 
 -Removed empty columns and duplicate values
 
